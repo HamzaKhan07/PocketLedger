@@ -28,12 +28,6 @@ Star⭐ the repo if you like what you see😉.
 - Beautiful and Modern UI
 - Cross platform
 
-
-## ✨ Demo
-
-![Demo](https://drive.google.com/uc?id=1Jw7qek9ZR8atTqvcNOcH4c3eSHNbnT9m)
-
-
 ## 📸 Screenshots
 
 ![App Screenshot](https://drive.google.com/uc?id=18pRIB3CE1ipCPZy-y9pFqKvBD16Rzh-o)
