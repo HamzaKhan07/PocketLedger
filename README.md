@@ -30,13 +30,13 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 Screenshots
 
-![App Screenshot](https://drive.google.com/uc?id=1GiKFbeh2IbqL3e3nCfR_BpB1jqNxd1nN)
+![App Screenshot](https://drive.google.com/uc?id=1WvICap_k-JE2_jn8TxEE-pU7T_2ZucbO)
 
-![App Screenshot](https://drive.google.com/uc?id=1_mf2sBnTwQ97SaErnvkMxAjpZ23ogDqL)
+![App Screenshot](https://drive.google.com/uc?id=1X7wNGhVRsBdnHDMc7FNu5ojxkDbhJkYy)
 
-![App Screenshot](https://drive.google.com/uc?id=1eqwHbfy4MeyuAiFHA_4XitBxlFuUzHHw)
+![App Screenshot](https://drive.google.com/uc?id=19O6gq-9q_0vCXLz_AafhN1Caq9y2B1Ce)
 
-![App Screenshot](https://drive.google.com/uc?id=1pfc9JO6dR9cD0aq2r4hRCi--pvDXfRSQ)
+![App Screenshot](https://drive.google.com/uc?id=1iWboY8xarTqMqc0oeQb6t8xn-pPONjhz)
 ## 💻 Tech Stack
 
 Flutter and Dart
