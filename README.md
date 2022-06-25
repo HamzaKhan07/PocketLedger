@@ -4,7 +4,7 @@
 Pocket Ledger a mobile app which helps for tracking 📈 finances and transactions 💰.
 It can be used by personal, small-businesses or for home-based solutions.
 
-Star⭐ the repo if you like what you see😉.
+Star⭐ the repo if you like what you see😉
 
 
 
